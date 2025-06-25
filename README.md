@@ -146,7 +146,7 @@ Prometheus config snippet:
 
 ## 🤝 License & Contact
 
-Open for contributions and collaboration. DM me on [LinkedIn](www.linkedin.com/in/syed-amjad-ali-4188002a0) or GitHub.
+Open for contributions and collaboration. DM me on [LinkedIn](https://www.linkedin.com/in/syed-amjad-ali-4188002a0/) or GitHub.
 
 ---
 
